@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.10'
 
 # Extra gems for Ruby thingies
 gem 'bulma-rails', '~> 0.9.1'
-gem 'simple_form', '~> 5.0.0'
+gem 'simple_form', '~> 5.1.0'
 gem 'devise', '~> 4.7.1'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'carrierwave'
