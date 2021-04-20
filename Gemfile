@@ -49,7 +49,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   # Adds support for Capybara system testing and selenium
   gem 'selenium-webdriver'
-  gem 'better_errors', '~> 2.4'
+  gem 'better_errors', '~> 2.9'
   gem 'guard', '~> 2.16'
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
 end
